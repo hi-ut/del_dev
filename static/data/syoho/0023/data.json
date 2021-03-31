@@ -1,0 +1,158 @@
+{
+    "title": "東京大学史料編纂所報第23号（1988年）",
+    "children": {
+        "top": [],
+        "口絵": [
+            {
+                "title": "柞原八幡宮文書",
+                "page": "i-iv"
+            }
+        ],
+        "研究報告": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/syoho0023-imaizumi.pdf",
+                "title": "桃源瑞仙年譜稿（四）",
+                "author": "今泉、淑夫",
+                "page": "1-13"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/syoho0023-yoshida.pdf",
+                "title": "「兵範記」紙背文書にみえる官職申文（上）",
+                "author": "吉田、早苗",
+                "page": "14-32"
+            }
+        ],
+        "調査報告": [
+            {
+                "title": "荘園絵図調査報告　二",
+                "author": "荘園絵図研究グループ",
+                "page": "33-41"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_shiryo-01-24.html",
+                "title": "大日本史料第一編之二十四",
+                "page": "42-43"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_shiryo-10-19.html",
+                "title": "大日本史料第十編之十九",
+                "page": "43*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_shiryo-12-51.html",
+                "title": "大日本史料第十二編之五十一",
+                "page": "43**-44"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kokiroku-okaya.html",
+                "title": "大日本古記録「岡屋関白記」",
+                "page": "44*-45"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kokiroku-gogumaiki-03.html",
+                "title": "大日本古記録「後愚昧記」三",
+                "page": "45*-46"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kinsei-hosokawa-11.html",
+                "title": "大日本近世史料「細川家史料」十一",
+                "page": "46*-47"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kinsei-shichu-18.html",
+                "title": "大日本近世史料「市中取締類集」十八",
+                "page": "47*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kinsei-bakufu-18.html",
+                "title": "大日本近世史料「幕府書物方日記」十八",
+                "page": "47**-48"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_kaigai-mokuroku-15.html",
+                "title": "日本関係海外史料目録十五",
+                "page": "48*-50"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_nihonshouen-03-02.html",
+                "title": "日本荘園絵図聚影三　近畿二",
+                "page": "50*-51"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/pub_shousouin-02.html",
+                "title": "正倉院文書目録二",
+                "page": "52"
+            }
+        ],
+        "科学研究費による研究の報告": [
+            {
+                "title": "＜科学研究費による研究の報告＞東京大学史料編纂所所蔵の影写本収載古文書検索システムの開発",
+                "page": "53"
+            },
+            {
+                "title": "京畿内荘園の史料データベース作成と歴世地理学的研究",
+                "page": "54"
+            },
+            {
+                "title": "発給文書の分析による鎌倉幕府権力の解明",
+                "page": "54*-56"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_BAKUMA~1.HTM",
+                "title": "幕末維新期盛岡藩史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_KOKURI~1.HTM",
+                "title": "国立歴史民俗博物館の史料閲覧"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_MORIOK~1.HTM",
+                "title": "盛岡市中央公民館所蔵国絵図の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_SHOURE~1.HTM",
+                "title": "青蓮院吉水蔵聖教調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_TOHOKU~1.HTM",
+                "title": "東北大学附属図書館所蔵狩野文庫の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_TOUJIY~1.HTM",
+                "title": "東寺百合文書の原本校正"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_YOUMEI~1.HTM",
+                "title": "陽明文庫所蔵岡屋関白記の撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_YOUMEI~2.HTM",
+                "title": "陽明文庫所蔵岡屋関白記の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_daigoji shiryou.htm",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_sakamotoryumonbunko.htm",
+                "title": "阪本龍門文庫における調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_seikurain monjo.htm",
+                "title": "正倉院文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_yakushiji shozou shiryou.htm",
+                "title": "薬師寺所蔵史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/23/saiho_youmeibunko shozou shiryou.htm",
+                "title": "陽明文庫所蔵史料の調査・撮影"
+            }
+        ]
+    }
+}

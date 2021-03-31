@@ -1,0 +1,174 @@
+{
+    "title": "東京大学史料編纂所報第22号（1987年）",
+    "children": {
+        "top": [],
+        "口絵": [
+            {
+                "title": "駐英蘭国公使ベンティンク書簡",
+                "page": "i-ii"
+            }
+        ],
+        "研究報告": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/syoho0022-fujita.pdf",
+                "title": "付箋　その名称と機能",
+                "author": "藤田、覚",
+                "page": "1-9"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/syoho0022-yokoyama.pdf",
+                "title": "日蘭和親条約副章について",
+                "author": "横山、伊徳",
+                "page": "10-24"
+            }
+        ],
+        "調査報告": [
+            {
+                "title": "荘園絵図調査報告　一",
+                "page": "25-32"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_shiryo-06-40.html",
+                "title": "大日本史料第六編之四十",
+                "page": "33"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_shiryo-07-25.html",
+                "title": "大日本史料第七編之二十五",
+                "page": "33*-34"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_shiryo-09-18.html",
+                "title": "大日本史料第九編之十八",
+                "page": "34*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_ishin-iike-15.html",
+                "title": "大日本維新史料類纂之部「井伊家史料」十五",
+                "page": "34**-35"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_komonjo-bakumatsu-41.html",
+                "title": "大日本古文書「幕末外国関係文書之四十一」",
+                "page": "35*-36"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_komonjo-iewake-21-03.html",
+                "title": "大日本古文書　家わけ第二十一「蜷川家文書之三」",
+                "page": "36*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_komonjo-iewake-18-13.html",
+                "title": "大日本古文書　家わけ第十八「東大寺文書之十三」",
+                "page": "36**-37"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_komonjo-iewake-10-08.html",
+                "title": "大日本古文書　家わけ第十「東寺文書之八」",
+                "page": "37*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_kokiroku-genkei-13.html",
+                "title": "大日本古記録「言経卿記」十三",
+                "page": "37**-38"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_kaigai-oranda-yaku-06.html",
+                "title": "日本関係海外史料「オランダ商館長日記」訳文編之六",
+                "page": "38*-40"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_shousouin-01.html",
+                "title": "正倉院文書目録一",
+                "page": "40*-41"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/pub_echigo.html",
+                "title": "越後国郡絵図",
+                "page": "41*"
+            }
+        ],
+        "科学研究費による研究の報告": [
+            {
+                "title": "日本史資料研究利用のためのデータ・ベースの開発",
+                "page": "42"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_IBARAK~1.HTM",
+                "title": "茨城県歴史館荘園絵図の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_KOBEDA~1.HTM",
+                "title": "神戸大学所蔵「広峯神社古文書」の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_KYOTOD~1.HTM",
+                "title": "京都大学附属図書館所蔵　二水記の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_NARATO~1.HTM",
+                "title": "奈良東大寺図書館所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_NARAYA~1.HTM",
+                "title": "奈良薬師寺所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_SHOURE~1.HTM",
+                "title": "青蓮院吉水蔵聖教調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_SUIFUM~1.HTM",
+                "title": "水府明徳会彰考館所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_TOHOKU~1.HTM",
+                "title": "東北大学付属図書館所蔵狩野文庫の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_TOUJIY~1.HTM",
+                "title": "東寺百合文書の原本校正"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_YOKOHA~1.HTM",
+                "title": "横浜市立大学附属図書館所蔵文書の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_YOUMEI~1.HTM",
+                "title": "陽明文庫所蔵新写本古記録等の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_YOUMEI~2.HTM",
+                "title": "陽明文庫所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_YOUMEI~3.HTM",
+                "title": "陽明文庫所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_daigoji shiryou.htm",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_hosokawake shiryou.htm",
+                "title": "細川家史料の返却及び調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_keihikarin monjo.htm",
+                "title": "慶光院文書の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_seikurain monjo.htm",
+                "title": "正倉院文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/22/saiho_usa nagahiro monjo.htm",
+                "title": "宇佐永弘文書調査"
+            }
+        ]
+    }
+}

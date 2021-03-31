@@ -1,0 +1,146 @@
+{
+    "title": "東京大学史料編纂所報第8号（1973年）",
+    "children": {
+        "top": [],
+        "論説": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-inaga.pdf",
+                "title": "山背国愛宕郡計帳について",
+                "author": "彌永、貞三",
+                "page": "1-17"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-minagawa.pdf",
+                "title": "正倉院文書「写千巻経所食物用帳」について",
+                "author": "皆川、完一",
+                "page": "18-22"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-okada.pdf",
+                "title": "栄山寺文書天元三年九月十九日太政官符について",
+                "author": "岡田、隆夫",
+                "page": "23-36"
+            }
+        ],
+        "研究ノート": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-tsuji.pdf",
+                "title": "新架蔵「慈恵大師講式」の紹介",
+                "author": "辻、彦三郎/林、幹彌",
+                "page": "37-38"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-ishida.pdf",
+                "title": "下郷共済会所蔵の「経光卿記」",
+                "author": "石田、祐一",
+                "page": "38*-41"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-sakai.pdf",
+                "title": "山形県慈恩寺の文書について",
+                "author": "酒井、信彦",
+                "page": "41*-43"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-kurokawa.pdf",
+                "title": "「末吉瓦林文書」雑録",
+                "author": "黒川、高明",
+                "page": "43*-47"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/syoho0008-seno.pdf",
+                "title": "萬代亀四郎氏所蔵手鑑について",
+                "author": "瀬野、精一郎",
+                "page": "47*-49"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_shiryo-05-24.html",
+                "title": "大日本史料第五編之二十四",
+                "page": "50"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_shiryo-07-21.html",
+                "title": "大日本史料第七編之二十一",
+                "page": "50*-51"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_shiryo-12-46.html",
+                "title": "大日本史料第十二編之四十六",
+                "page": "51*-53"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_kokiroku-shouuki-07.html",
+                "title": "大日本古記録「小右記七」",
+                "page": "53*-54"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_kokiroku-genkei-08.html",
+                "title": "大日本古記録「言経卿記八」",
+                "page": "54*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_kinsei-henshuu-02.html",
+                "title": "大日本近世史料「編脩地誌備用典籍解題二」",
+                "page": "54**-55"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_kinsei-bakufu-09.html",
+                "title": "大日本近世史料「幕府書物方日記九」",
+                "page": "55*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_kinsei-shotonya-12.html",
+                "title": "大日本近世史料「諸問屋再興調十二」",
+                "page": "55**-56"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_sasakitakayuki-04.html",
+                "title": "保古飛呂比　佐佐木高行日記四",
+                "page": "56*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/pub_ishin-iike-08.html",
+                "title": "大日本維新史料類纂之部「井伊家史料八」",
+                "page": "56**-57"
+            },
+            {
+                "title": "史料編纂所図書目録刊本五（索引）",
+                "page": "57*"
+            }
+        ],
+        "科学研究費による研究の報告": [
+            {
+                "title": "未採訪史料の集中的遺存地域における古代・中世史料の綜合的調査研究",
+                "page": "58-68"
+            },
+            {
+                "title": "中世以降の著述編纂活動の調査研究",
+                "page": "68*-71"
+            },
+            {
+                "title": "未採訪大規模史料群による藩政史の綜合的研究",
+                "page": "71*-73"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/saiho_akirakoukan shiryou.html",
+                "title": "彰考館史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/saiho_daigoji shiryou.html",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/saiho_kasugajinja monjo.html",
+                "title": "春日神社文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/08/saiho_shiritsu yonezawatoshokan shiryou.html",
+                "title": "市立米沢図書館史料調査"
+            }
+        ]
+    }
+}

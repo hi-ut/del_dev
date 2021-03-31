@@ -1,0 +1,116 @@
+{
+    "title": "東京大学史料編纂所報第26号（1991年）",
+    "children": {
+        "top": [],
+        "科学研究費による研究の報告（史料調査報告）": [
+            {
+                "title": "『復古記』原史料の基礎的研究",
+                "page": "33-43"
+            },
+            {
+                "title": "秋田・青森県下幕末維新期史料調査",
+                "page": "44-93"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_shiryo-09-19.html",
+                "title": "大日本史料第九編之十九",
+                "page": "94-95"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_shiryo-10-20.html",
+                "title": "大日本史料第十編之二十",
+                "page": "95*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_shiryo-12-52.html",
+                "title": "大日本史料第十二編之五十二",
+                "page": "95**-96"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_komonjo-iewake-10-09.html",
+                "title": "大日本古文書 家わけ第十 東寺文書之九",
+                "page": "96*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_kokiroku-genkei-14.html",
+                "title": "大日本古記録 言経卿記 十四",
+                "page": "96**-97"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_ishin-iike-17.html",
+                "title": "大日本維新史料 類纂之部 井伊家史料 十七",
+                "page": "97*-98"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_komonjo-bakumatsu-43.html",
+                "title": "大日本古文書 幕末外国関係文書之四十三",
+                "page": "98*-99"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/pub_kaigai-oranda-yaku-07.html",
+                "title": "日本関係海外史料 オランダ商館長日記 訳文編之七",
+                "page": "99*"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_ISESHI~1.HTM",
+                "title": "伊勢市神宮文庫所蔵古記録等の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_KOKURI~1.HTM",
+                "title": "国立歴史民俗博物館の史料閲覧"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_KYOTOD~1.HTM",
+                "title": "京都大学文学部博物館・天理大学付属天理図書館所蔵古記録等の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_KYOTOF~3.HTM",
+                "title": "東寺百合文書の原本校正"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_KYOTOF~4.HTM",
+                "title": "京都府立総合資料館・京都市歴史資料館所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_SHOURE~1.HTM",
+                "title": "青蓮院吉水蔵聖教の撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_SHOURE~2.HTM",
+                "title": "青蓮院吉水蔵聖教類の花押採集"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_YAMAGU~1.HTM",
+                "title": "山口県文書館所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_YOUMEI~2.HTM",
+                "title": "陽明文庫所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_YOUMEI~3.HTM",
+                "title": "陽明文庫所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_daigoji shiryou.htm",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_seikurain monjo.htm",
+                "title": "正倉院文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_yakushiji shozou shiryou.htm",
+                "title": "薬師寺所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/26/saiho_youmeibunko shozou kokiroku.htm",
+                "title": "陽明文庫所蔵古記録の調査"
+            }
+        ]
+    }
+}

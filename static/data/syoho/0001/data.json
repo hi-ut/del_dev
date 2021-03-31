@@ -1,0 +1,132 @@
+{
+    "title": "東京大学史料編纂所報第1号（1966年）",
+    "children": {
+        "top": [],
+        "口絵": [
+            {
+                "title": "尾張国郡司百姓等解",
+                "page": "i"
+            },
+            {
+                "title": "尾張国郡司百姓等解紙背（消息・具注暦・見行草）",
+                "page": "ii"
+            }
+        ],
+        "論説": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/syoho0001-momo.pdf",
+                "title": "嘉元三年見行草について",
+                "author": "桃、裕行",
+                "page": "1-11"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/syoho0001-ota.pdf",
+                "title": "橘南谿の稿本について",
+                "author": "太田、晶二郎",
+                "page": "12-24"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_shiryo-02-16.html",
+                "title": "大日本史料第二編之十六",
+                "page": "25-26"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_shiryo-05-22.html",
+                "title": "大日本史料第五編之二十二",
+                "page": "26*-27"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_shiryo-10-12.html",
+                "title": "大日本史料第十編之十二",
+                "page": "27*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_komonjo-iewake-16-03.html",
+                "title": "大日本古文書家わけ第十六「島津家文書之三」",
+                "page": "28-29"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_komonjo-iewake-18-04-04.html",
+                "title": "大日本古文書家わけ第十八「東大寺文書之四」",
+                "page": "29*-30"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_komonjo-iewake-19-05.html",
+                "title": "大日本古文書家わけ第十九「醍醐寺文書之五」",
+                "page": "30*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kokiroku-denreki-03.html",
+                "title": "大日本古記録「殿暦三」",
+                "page": "30**"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kokiroku-kennaiki-02.html",
+                "title": "大日本古記録「建内記二」",
+                "page": "31"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kinsei-shichu-06.html",
+                "title": "大日本近世史料「市中取締類集六名主取締之部二」",
+                "page": "31*-32"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kinsei-shotonya-07.html",
+                "title": "大日本近世史料「諸問屋再興調七」",
+                "page": "32*-33"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kinsei-bakufu-03.html",
+                "title": "大日本近世史料「幕府書物方日記三、附御文庫始末記」",
+                "page": "33*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_komonjo-bakumatsu-furoku-06.html",
+                "title": "大日本古文書「幕末外国関係文書附録之六」",
+                "page": "33**-34"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kaigai-uk-06-01.html",
+                "title": "日本関係海外史料目録6イギリス国所在文書1",
+                "page": "34*-36"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/pub_kaigai-oranda-05-05.html",
+                "title": "日本関係海外史料目録5オランダ国所在文書5",
+                "page": "36*-37"
+            },
+            {
+                "title": "講演集",
+                "page": "37*"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_daigoji.html",
+                "title": "醍醐寺出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_hiroshima daigaku.html",
+                "title": "広島大学出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_kyoto daigaku01.html",
+                "title": "京都大学出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_kyoto daigaku02.html",
+                "title": "京都大学出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_shousouin.html",
+                "title": "正倉院出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/01/saiho_youmeibunko.html",
+                "title": "陽明文庫出張報告"
+            }
+        ]
+    }
+}

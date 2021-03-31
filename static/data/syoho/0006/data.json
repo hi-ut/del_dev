@@ -1,0 +1,144 @@
+{
+    "title": "東京大学史料編纂所報第6号（1971年）",
+    "children": {
+        "top": [],
+        "論説": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/syoho0006-masuda.pdf",
+                "title": "吾妻鏡の本文批判のための覚書 ： 吾妻鏡と明月記との関係",
+                "author": " 益田、宗",
+                "page": "1-23"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/syoho0006-ota.pdf",
+                "title": "勧学院の雀はなぜ蒙求を囀ったか",
+                "author": " 太田、晶二郎",
+                "page": "24-32"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/syoho0006-yamaguchi.pdf",
+                "title": "南北朝期の肥後国守護について ： 菊池武光まで",
+                "author": "山口、隼正",
+                "page": "33-57"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/syoho0006-kato.pdf",
+                "title": "一六三七年平戸オランダ商館貿易表（二）",
+                "author": " 加藤、榮一",
+                "page": "58-79"
+            }
+        ],
+        "史料紹介": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/syoho0006-kanai.pdf",
+                "title": "長崎オランダ商館旧蔵日本語及び中国語文書（慶長十四－弘化二年）（その二）",
+                "author": "金井、圓",
+                "page": "80-98"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_shiryo-10-14.html",
+                "title": "大日本史料第十編之十四",
+                "page": "100"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_shiryo-12-45.html",
+                "title": "大日本史料第十二編之四十五",
+                "page": "101-102"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_komonjo-iewake-17-09.html",
+                "title": "大日本古文書家わけ第十七「大徳寺文書之九」",
+                "page": "103"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_komonjo-iewake-19-07.html",
+                "title": "大日本古文書家わけ第十九「醍醐寺文書之七」",
+                "page": "103*-104"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_kokiroku-shouuki-06.html",
+                "title": "大日本古記録「小右記六」",
+                "page": "104*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_kokiroku-genkei-07.html",
+                "title": "大日本古記録「言経卿記七」",
+                "page": "104**-105"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_kinsei-shichu-09.html",
+                "title": "大日本近世史料「市中取締類集九」",
+                "page": "105*-106"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_kinsei-bakufu-08.html",
+                "title": "大日本近世史料「幕府書物方日記八」",
+                "page": "106*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_kinsei-shotonya-11.html",
+                "title": "大日本近世史料「諸問屋再興調十一」",
+                "page": "107"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/pub_ishin-iike-07.html",
+                "title": "大日本維新史料類纂之部「井伊家史料七」",
+                "page": "107*-108"
+            },
+            {
+                "title": "史料編纂所図書目録写本七（謄写本〔下之三〕）",
+                "page": "108*"
+            }
+        ],
+        "": [
+            {
+                "title": "大名史料の蒐集事業",
+                "page": "109-118"
+            },
+            {
+                "title": "荘園絵図の基礎的研究",
+                "page": "119-124"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_akirakoukan  shiryou.html",
+                "title": "彰考館史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_daigoji monjo.html",
+                "title": "醍醐寺文書調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_kanazawashiritsu toshokan monjo.html",
+                "title": "金沢市立図書館加越能文庫調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_kyotodaigaku  kanshujike monjo.html",
+                "title": "京都大学所蔵勧修寺家文書調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_naikakumonko syojou  shiryou.html",
+                "title": "内閣文庫所蔵史料調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_nishioshiritsutoshokaniwasebunko nagoyashiritsutsurumaitosh.html",
+                "title": "西尾市立図書館岩瀬文庫・名古屋市立鶴舞図書館・神宮文庫所蔵"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_ryumonbunko.html",
+                "title": "竜門文庫蔵書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_shousouin monjo.html",
+                "title": "正倉院文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/06/saiho_toudaijitoshokan syojou muneseizyou ningenkankitennseki.html",
+                "title": "東大寺図書館所蔵宗性上人関係典籍調査・撮影"
+            }
+        ]
+    }
+}
