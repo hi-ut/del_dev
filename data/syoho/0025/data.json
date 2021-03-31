@@ -1,0 +1,141 @@
+{
+    "title": "東京大学史料編纂所報第25号（1990年）",
+    "children": {
+        "top": [],
+        "科学研究費による研究の報告": [
+            {
+                "title": "中近世移行期畿内近国村落社会における「番頭」「沙汰人」「刀禰」等の史料的研究",
+                "page": "47-51"
+            },
+            {
+                "title": "幕藩制国家の解体と長州戦争",
+                "page": "52-76"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_shiryo-03-22.html",
+                "title": "大日本史料第三編之二十二",
+                "page": "77"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_shiryo-05-28.html",
+                "title": "大日本史料第五編之二十八",
+                "page": "77*-78"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_shiryo-06-41.html",
+                "title": "大日本史料第六編之四十一",
+                "page": "78*-79"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_shiryo-11-19.html",
+                "title": "大日本史料第十一編之十九",
+                "page": "79*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_komonjo-iewake-19-03.html",
+                "title": "大日本古文書　家わけ第十九「醍醐寺文書別集　満濟准后日記紙背文書之三」",
+                "page": "79**-80"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_kinsei-hosokawa-12.html",
+                "title": "大日本近世史料「細川家史料」十二",
+                "page": "80*-81"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_kinsei-shichu-19.html",
+                "title": "大日本近世史料「市中取締類集」十九",
+                "page": "81*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_kinsei-hirohashi-01.html",
+                "title": "大日本近世史料「広橋兼胤公武御用日記」一",
+                "page": "81**-82"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/pub_kaigai-iezusu-genbun-01.html",
+                "title": "日本関係海外史料「イエズス会日本書翰集」原文編之一",
+                "page": "82*-83"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_IBARAK~1.HTM",
+                "title": "茨城県立歴史館所蔵一橋徳川家文書の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_JINGUB~1.HTM",
+                "title": "神宮文庫・陽明文庫所蔵古記録等の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_KAGOSH~1.HTM",
+                "title": "鹿児島県下幕末維新期史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_KOKURI~1.HTM",
+                "title": "国立歴史民俗博物館の史料閲覧"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_KYOTOD~1.HTM",
+                "title": "京都大学文学部博物館所蔵勧修寺家旧蔵記録の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_NARAYA~1.HTM",
+                "title": "奈良薬師寺所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_SAIDAI~1.HTM",
+                "title": "西大寺・陽明文庫・東大寺図書館における史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_SHOURE~1.HTM",
+                "title": "青蓮院吉水蔵聖教の撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_TENRID~1.HTM",
+                "title": "天理大学附属天理図書館所蔵イエズス会日本通信の調査・蒐集"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_TOUDAI~1.HTM",
+                "title": "東大寺図書館所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_TOUJIY~1.HTM",
+                "title": "東寺百合文書の原本校正"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_YAMAGU~1.HTM",
+                "title": "山口県文書館所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_YOUMEI~1.HTM",
+                "title": "陽明文庫所蔵史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_YOUMEI~2.HTM",
+                "title": "陽明文庫所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_daigoji shiryou.htm",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_date monjo.htm",
+                "title": "伊達文書の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_hosokawake shiryou.htm",
+                "title": "細川家史料の調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_kouyasan shozai shiryou.htm",
+                "title": "高野山所在史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/25/saiho_seikurain monjo.htm",
+                "title": "正倉院文書調査"
+            }
+        ]
+    }
+}

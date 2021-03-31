@@ -1,0 +1,377 @@
+[
+  {
+    "label": "ご案内",
+    "lang": ["ja", "en"],
+    "to": { "name": "about-slug"},
+    "children": [
+      {
+        "label": "所長挨拶",
+        "to": { "name": "about-slug"},
+        "lang": ["ja", "en"]
+      },
+      {
+        "label": "沿革",
+        "to": { "name": "about-slug", "params" : {"slug" : "history"} },
+        "lang": ["ja", "en"]
+      },
+      {
+        "label": "事業",
+        "to": { "name": "about-slug", "params" : {"slug" : "mission"} },
+        "lang": ["ja", "en"]
+      },
+      {
+        "label": "組織",
+        "to": { "name": "about-slug", "params" : {"slug" : "organization" } },
+        "lang": ["ja", "en"],
+        "children": [
+          {
+            "label": "古代史料部門",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/kodai",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "中世史料部門",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/chusei",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "近世史料部門",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/kinsei",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "古文書古記録部門",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/komo",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "特殊史料部門",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/tokushu",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "画像史料解析センター",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/gazo",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "前近代日本史情報国際センター",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/cdps",
+            "lang": ["ja", "en"]
+          },
+
+          {
+            "label": "技術部・史料保存技術室",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/gijyutu",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "図書部",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho",
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "IR・広報室",
+            "href": "https://www.hi.u-tokyo.ac.jp/dev/ir",
+            "lang": ["ja", "en"]
+          }
+        ]
+      },
+      {
+        "label": "教員一覧",
+        "to": { "name": "faculty" },
+        "lang": ["ja", "en"]
+      },
+      {
+        "label": "施設",
+        "to": { "name": "about-facilities" },
+        "lang": ["ja"]
+      },
+      {
+        "label": "点検・評価",
+        "to": { "name": "about-slug", "params": { "slug": "evaluation" } },
+        "lang": ["ja"]
+      },
+      {
+        "label": "アクセスマップ",
+        "to": { "name": "about-access" },
+        "lang": ["ja", "en"]
+      },
+      { "label": "リンク", "to": { "name": "about-link" }, "lang": ["ja"] },
+      {
+        "label": "サイトマップ",
+        "to": { "name": "about-sitemap" },
+        "lang": ["ja"]
+      }
+    ]
+  },
+  {
+    "label": "ニュース",
+    "to": { "name": "news" },
+    "lang": ["ja"],
+    "children": [
+      { "label": "ニュース", "to": { "name": "news" }, "lang": ["ja"] }
+    ]
+  },
+  {
+    "label": "編纂・研究・公開",
+    "lang": ["ja", "en"],
+    "to": { "name": "publication" },
+    "children": [
+      {
+        "label": "編纂・出版",
+        "to": { "name": "publication" },
+        "lang": ["ja", "en"],
+        "children": [
+          {
+            "label": "大日本史料・史料綜覧",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "dainihonshiryo_shiryosoran"
+            } },
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "大日本古文書",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "komonjo"
+            } },
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "大日本古記録",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "kokiroku"
+            } },
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "大日本近世史料",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "kinsei"
+            } },
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "大日本維新史料",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "ishin"
+            } },
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "維新史料綱要",
+            "to": { "name": "publication-slug" , "params" : {
+              "slug" : "ishinkoyo"
+            }},
+            
+            "lang": ["ja"]
+          },
+          {
+            "label": "日本関係海外史料",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "kaigai"
+            } },
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "日本関係海外史料目録",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "kaigaimokuroku"
+            } },
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "正倉院文書目録",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "shosoin"
+            }},
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "日本荘園絵図聚影",
+            "to": { "name": "publication-slug" , "params" : {
+              "slug" : "shoenezu"
+            }},
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "花押かがみ",
+            "to": { "name": "publication-slug", "params" : {
+              "slug" : "kao"
+            } },
+            
+            "lang": ["ja", "en"]
+          },
+          {
+            "label": "入来院家文書",
+            "href": "http://www.hi.u-tokyo.ac.jp/iriki.html",
+            "lang": ["en"]
+          },
+          {
+            "label": "その他の出版物",
+            "to": { "name": "publication-slug" , "params" : {
+              "slug" : "kakushu"
+            }},
+            
+            "lang": ["ja"]
+          },
+          {
+            "label": "所報",
+            "to": { "name": "publication-syoho" },
+            "lang": ["ja"]
+          },
+          {
+            "label": "研究紀要",
+            "to": { "name": "publication-kiyo" },
+            "lang": ["ja"]
+          },
+          {
+            "label": "画像解析センター通信",
+            "href": "https://www.hi.u-tokyo.ac.jp/gazo/centernewslist",
+            "lang": ["ja"]
+          }
+        ]
+      },
+      {
+        "label": "史料調査",
+        "to": { "name": "investigation" },
+        "lang": ["ja"]
+      },
+      {
+        "label": "共同研究",
+        "to": { "name": "collaboration" },
+        "lang": ["ja"],
+        "children": [
+          {
+            "label": "各種成果",
+            "to": { "name": "collaboration-fruits" },
+            "lang": ["ja"]
+          }
+        ]
+      },
+      {
+        "label": "成果公開・教育",
+        "to": { "name": "conference-seminar" },
+        "lang": ["ja"]
+      },
+      {
+        "label": "史料集版面ギャラリー",
+        "to": { "name": "publication-dip" },
+        "lang": ["ja", "en"]
+      }
+    ]
+  },
+  {
+    "label": "史料の利用",
+    "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho",
+    "lang": ["ja", "en"],
+    "children": [
+      { "label": "お知らせ", "href": "tosho", "lang": ["ja", "en"] },
+      {
+        "label": "図書室利用（閲覧手続き）",
+        "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho/etsuran",
+        "lang": ["ja"]
+      },
+      {
+        "label": "図書室利用（複製・掲載・放映等）",
+        "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho/shiryoriyo",
+        "lang": ["ja"]
+      },
+      {
+        "label": "所蔵史料の検索",
+        "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho/kensaku",
+        "lang": ["ja"]
+      },
+      {
+        "label": "お問い合わせ・連絡先",
+        "href": "https://www.hi.u-tokyo.ac.jp/dev/tosho/toiawase",
+        "lang": ["ja"]
+      }
+    ]
+  },
+  {
+    "label": "データベース検索",
+    "href": "http://wwwap.hi.u-tokyo.ac.jp/ships/",
+    "lang": ["ja", "en"],
+    "children": [
+      {
+        "label": "データベース検索",
+        "lang": ["ja", "en"],
+        "href": "http://wwwap.hi.u-tokyo.ac.jp/ships/"
+      }
+    ]
+  },
+  {
+    "label": "所蔵史料紹介",
+    "to": { "name": "collection-slug" },
+    "lang": ["ja", "en"],
+    "children": [
+      { "label": "概要", "to": { "name": "collection-slug" }, "lang": ["ja", "en"] },
+      {
+        "label": "貴重書",
+        "to": { "name": "collection-slug", "params" : {"slug" : "collection02"} },
+        "lang": ["ja"]
+      },
+      {
+        "label": "特殊蒐書",
+        "to": { "name": "collection-slug", "params" : {"slug" : "collection03"} },
+        "lang": ["ja"]
+      },
+      {
+        "label": "その他の貴重書",
+        "to": { "name": "collection-slug", "params" : {"slug" : "collection04"} },
+        "lang": ["ja"]
+      },
+      {
+        "label": "１階展示案内",
+        "to": { "name": "collection-slug", "params" : {"slug" : "exhibition"} },
+        "lang": ["ja"]
+      },
+      {
+        "label": "デジタルギャラリー",
+        "to": { "name": "collection-slug", "params" : {"slug" : "degitalgallary"} },
+        "lang": ["ja"]
+      }
+    ]
+  },
+  {
+    "label": "国際交流",
+    "to": { "name": "exchange" },
+    "lang": ["ja", "en"],
+    "children": [
+      {
+        "label": "国際交流",
+        "to": { "name": "exchange" },
+        "lang": ["ja", "en"]
+      }
+    ]
+  },
+  {
+    "label": "よくあるご質問",
+    "to": { "name": "faq-slug" },
+    "lang": ["ja"],
+    "children": [
+      { "label": "よくあるご質問", "to": { "name": "faq-slug" }, "lang": ["ja"] },
+      {
+        "label": "ビューアについて",
+        "to": { "name": "faq-viewer" },
+        "lang": ["ja"]
+      },
+      {
+        "label": "データベースにおける文字について",
+        "to": { "name": "faq-kanjiv" },
+        "lang": ["ja"]
+      },
+      {
+        "label": "利用条件：史料画像データの利用",
+        "to": { "name": "faq-reuse" },
+        "lang": ["ja"]
+      }
+    ]
+  }
+]

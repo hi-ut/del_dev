@@ -1,0 +1,133 @@
+{
+    "title": "東京大学史料編纂所報第3号（1968年）",
+    "children": {
+        "top": [],
+        "論説": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/syoho0003-hanada.pdf",
+                "title": "正倉院御物紺瑠璃唾壷考",
+                "author": "花田、雄吉",
+                "page": "1-11"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/syoho0003-ota.pdf",
+                "title": "王羲之「孔侍中帖」について ： 特に、其の前に接してゐた帖",
+                "author": "太田、晶二郎",
+                "page": "12-22"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/syoho0003-kato.pdf",
+                "title": "平戸オランダ商館の商業帳簿に見られる日蘭貿易の一断面 ： 一六三六年のオランダ商館「仕訳帳」の分析を中心に",
+                "author": "加藤、栄一",
+                "page": "23-63"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_shiryo-01-16.html",
+                "title": "大日本史料第一編之十六",
+                "page": "64-65"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_shiryo-02-17.html",
+                "title": "大日本史料第二編之十七",
+                "page": "65*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_shiryo-08-28.html",
+                "title": "大日本史料第八編之二十八",
+                "page": "65**-66"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_komonjo-iewake-18-01-01.html",
+                "title": "大日本古文書家わけ第十八「東大寺文書別集一」（東京大学所蔵文書之一）",
+                "page": "66*-67"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_komonjo-iewake-17-07.html",
+                "title": "大日本古文書家わけ第十七「大徳寺文書之七」",
+                "page": "67*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kokiroku-denreki-04.html",
+                "title": "大日本古記録「殿暦四」",
+                "page": "67**-68"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kokiroku-kennaiki-03.html",
+                "title": "大日本古記録「建内記三」",
+                "page": "68*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kinsei-toutsuu-07.html",
+                "title": "大日本近世史料「唐通事会所日録七」",
+                "page": "68**-69"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kinsei-shotonya-09.html",
+                "title": "大日本近世史料「諸問屋再興調九」",
+                "page": "69*-70"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kinsei-shosou-jou.html",
+                "title": "大日本近世史料「諸宗末寺帳上」",
+                "page": "70*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kaigai-usa-09-01.html",
+                "title": "日本関係海外史料目録9アメリカ合衆国所在文書(1)",
+                "page": "70**-71"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kaigai-usa-10-02.html",
+                "title": "日本関係海外史料目録10アメリカ合衆国所在文書(2)",
+                "page": "71*-73"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/pub_kaigai-mokuroku-11.html",
+                "title": "日本関係海外史料目録11スイス国所在文書・ドイツ民主主義共和国所在文書・ドイツ連邦共和国所在文書・スウェーデン国所在文書",
+                "page": "73*-74"
+            },
+            {
+                "title": "史料編纂所図書目録写本四（謄写本中）",
+                "page": "74*-75"
+            }
+        ],
+        "史料紹介": [
+            {
+                "title": "「韮山反射炉関係史料」",
+                "page": "91-116"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_daigoji.html",
+                "title": "醍醐寺出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_iseshi jinguubunko tsushi senjuji.html",
+                "title": "伊勢市神宮文庫・津市専修寺等出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_kyotodaigaku.html",
+                "title": "京都大学出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_shousouin.html",
+                "title": "正倉院出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_toudaiji toshokan.html",
+                "title": "東大寺図書館出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_youmeibunko01.html",
+                "title": "陽明文庫出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/03/saiho_youmeibunko02.html",
+                "title": "陽明文庫出張報告"
+            }
+        ]
+    }
+}

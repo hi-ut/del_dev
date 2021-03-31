@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/publication/dip", {data:[{}],fetch:{},mutations:[]});

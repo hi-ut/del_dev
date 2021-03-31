@@ -1,0 +1,184 @@
+{
+    "title": "東京大学史料編纂所報第18号（1983年）",
+    "children": {
+        "top": [],
+        "口絵": [
+            {
+                "title": "杲宝僧都日記（部分）",
+                "page": "i"
+            },
+            {
+                "title": "＜口絵解説＞杲宝僧都日記（部分）",
+                "author": "後藤、紀彦",
+                "page": "ii"
+            },
+            {
+                "title": "韓客筆語（部分）",
+                "page": "iii"
+            },
+            {
+                "title": "＜口絵解説＞韓客筆語（部分）",
+                "author": "後藤、紀彦",
+                "page": "iv"
+            }
+        ],
+        "研究報告": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/syoho0018-yoshida.pdf",
+                "title": "『春除目抄』にみえる『法性寺関白記』逸文",
+                "author": "吉田、早苗",
+                "page": "1-17"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/syoho0018-imaizumi.pdf",
+                "title": "『花上集』について",
+                "author": "今泉、淑夫",
+                "page": "18-32"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/syoho0018-sakai.pdf",
+                "title": "朝廷年中行事の転換　：　「御祝」の成立",
+                "author": "酒井、信彦",
+                "page": "33-43"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/syoho0018-yamaguchi.pdf",
+                "title": "近藤重蔵の史料　：　史料編纂所所蔵「近藤重蔵遺書」に見る",
+                "author": "山口、静子",
+                "page": "44-60"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/syoho0018-suzuki.pdf",
+                "title": "近藤重蔵　二題",
+                "author": "鈴木、圭吾",
+                "page": "61-67"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_shiryo-01-22.html",
+                "title": "大日本史料第一編之二十二",
+                "page": "68"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_shiryo-06-39.html",
+                "title": "大日本史料第六編之三十九",
+                "page": "68*-69"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_shiryo-08-32.html",
+                "title": "大日本史料第八編之三十二",
+                "page": "69*-70"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_ishin-iike-13.html",
+                "title": "大日本維新史料類纂之部「井伊家史料」十三",
+                "page": "70*-71"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_komonjo-bakumatsu-39.html",
+                "title": "大日本古文書「幕末外国関係文書之三十九」",
+                "page": "71*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_komonjo-iewake-19-01.html",
+                "title": "大日本古文書家わけ第十九「醍醐寺文書別集　満濟准后日記紙背文書之一」",
+                "page": "72"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_komonjo-iewake-18-12.html",
+                "title": "大日本古文書家わけ第十八「東大寺文書之十二」",
+                "page": "72*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_kokiroku-inokuma-05.html",
+                "title": "大日本古記録「猪隈關白記」五",
+                "page": "72**-73"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_kokiroku-kennaiki-09.html",
+                "title": "大日本古記録「建内記」九",
+                "page": "73*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_kokiroku-genkei-12.html",
+                "title": "大日本古記録「言経卿記」十二",
+                "page": "73**-74"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_kaigai-oranda-yaku-04-jou.html",
+                "title": "日本関係海外史料「オランダ商館長日記」譯文編之四（上）",
+                "page": "74*-75"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/pub_echigo-01.html",
+                "title": "越後國郡繪圖一　頸城郡",
+                "page": "75*"
+            }
+        ],
+        "科学研究費による研究の報告": [
+            {
+                "title": "朝廷と公家各流諸家に於ける儀式の研究",
+                "page": "76-77"
+            },
+            {
+                "title": "幕藩制国家の解体と長州戦争",
+                "page": "78-103"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_HASHIM~1.HTM",
+                "title": "橋本市郷土資料館・大阪市立大学附属図書館・兵庫県史編集室における調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_NAGASA~1.HTM",
+                "title": "長崎県大村市における史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_NAGASA~2.HTM",
+                "title": "長崎市立博物館所蔵史料の調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_NARAKE~1.HTM",
+                "title": "奈良県立図書館・東大寺図書館所蔵史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_NISHIO~1.HTM",
+                "title": "西尾市立図書館岩瀬文庫所蔵柳原家旧蔵資料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_OKAYAM~1.HTM",
+                "title": "岡山大学附属図書館池田家文庫及び岡山県立博物館所蔵国絵図調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_TOUDAI~1.HTM",
+                "title": "東大寺図書館・武田科学振興財団杏雨書屋における調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_daigoji shiryou.htm",
+                "title": "醍醐寺史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_hosokawake shiryou.htm",
+                "title": "細川家史料の返却と調査・撮影"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_kasugataisha shozou shiryou.htm",
+                "title": "春日大社所蔵史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_myouhouin shozou shiryou.htm",
+                "title": "妙法院所蔵史料調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_seikurain monjo.htm",
+                "title": "正倉院文書調査"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/18/saiho_yakushiji.htm",
+                "title": "薬師寺所蔵史料調査"
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "title": "東京大学史料編纂所報第5号（1970年）",
+    "children": {
+        "top": [],
+        "論説": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-momo.pdf",
+                "title": "小右記諸本の研究",
+                "author": "桃、裕行",
+                "page": "1-39"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-takagi.pdf",
+                "title": "三河物語の成立年について",
+                "author": "高木、昭作",
+                "page": "40-45"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-shinshi.pdf",
+                "title": "赦免流人送還警固について",
+                "author": "進士、慶幹",
+                "page": "46-54"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-ota.pdf",
+                "title": "大矢透博士の著書稿本及び蔵書 ： 伝記的書目",
+                "author": "太田、晶二郎",
+                "page": "55-75"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-kato.pdf",
+                "title": "一六三六年平戸オランダ商館貿易表（一）",
+                "author": "加藤、榮一",
+                "page": "76-89"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-numata.pdf",
+                "title": "ソ連・西ドイツ・オランダにおける日本関係史料の採訪について",
+                "author": "沼田、次郎",
+                "page": "90-98"
+            }
+        ],
+        "史料紹介": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/syoho0005-kanai.pdf",
+                "title": "長崎オランダ商館舊蔵日本語及び中国語文書（慶長十四－弘化二年）（その一）",
+                "author": "金井、圓",
+                "page": "99-109"
+            }
+        ],
+        "本所出版物": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_shiryo-01-17.html",
+                "title": "大日本史料第一編之十七",
+                "page": "110"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_shiryo-02-18.html",
+                "title": "大日本史料第二編之十八",
+                "page": "110*-111"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_komonjo-iewake-17-08.html",
+                "title": "大日本古文書家わけ第十七「大徳寺文書之八」",
+                "page": "111*-112"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_komonjo-bakumatsu-35.html",
+                "title": "大日本古文書「幕末外国関係文書之三十五」",
+                "page": "112*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kokiroku-denreki-05.html",
+                "title": "大日本古記録「殿暦五」",
+                "page": "112**-113"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kokiroku-kennaiki-04.html",
+                "title": "大日本古記録「建内記四」",
+                "page": "113*-114"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kinsei-hosokawa-02.html",
+                "title": "大日本近世史料「細川家史料二」",
+                "page": "114*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kinsei-shotonya-10.html",
+                "title": "大日本近世史料「諸問屋再興調十」",
+                "page": "114**-115"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kinsei-bakufu-06.html",
+                "title": "大日本近世史料「幕府書物方日記六」",
+                "page": "115*"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kinsei-bakufu-07.html",
+                "title": "大日本近世史料「幕府書物方日記七」",
+                "page": "115**-116"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_kinsei-ryuuei-ge.html",
+                "title": "大日本近世史料「柳営補任索引下」",
+                "page": "116*-117"
+            },
+            {
+                "title": "史料編纂所図書目録「写本五」（謄写本下之一）",
+                "page": "117*"
+            },
+            {
+                "title": "史料編纂所図書目録「写本六」（謄写本下之二）",
+                "page": "117**"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_ishin-jou-bakumatsu.html",
+                "title": "明治維新史料選集 上 幕末編",
+                "page": "117***"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/pub_sasakitakayuki-01.html",
+                "title": "保古飛呂比 佐佐木高行日記一",
+                "page": "117****-118"
+            }
+        ],
+        "史料採訪": [
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/saiho_daigoji.html",
+                "title": "醍醐寺出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/saiho_daitokuji shinjuan.html",
+                "title": "大徳寺真珠庵出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/saiho_kanazawabunko.html",
+                "title": "金沢文庫出張報告"
+            },
+            {
+                "url": "http://www.hi.u-tokyo.ac.jp/publication/syoho/05/saiho_shousouin.html",
+                "title": "正倉院出張報告"
+            }
+        ]
+    }
+}

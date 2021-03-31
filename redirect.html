@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <script>
+      var pathName = window.location.pathname
+
+      var prefix = 'https://www.hi.u-tokyo.ac.jp'
+
+      var url = prefix + window.location.search.replace('?p=', '')
+
+      var req = new XMLHttpRequest()
+      req.onreadystatechange = function () {
+        if (req.readyState == 4 && req.status == 200) {
+          const data = JSON.parse(req.responseText)
+          let redirectUrl = ''
+          if (data[url]) {
+            redirectUrl = data[url]
+          } else {
+            redirectUrl = prefix
+          }
+          location.href = redirectUrl
+        }
+      }
+      req.open('GET', 'data/redirect.json', false)
+      req.send(null)
+    </script>
+  </head>
+</html>

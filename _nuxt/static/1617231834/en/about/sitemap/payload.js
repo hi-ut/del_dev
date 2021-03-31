@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/about/sitemap", {data:[{}],fetch:{},mutations:[]});
