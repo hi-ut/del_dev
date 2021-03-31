@@ -77,80 +77,51 @@
                     :open="isOpenLv1 && currentLv1Index === key"
                     class="sub-menu"
                   >
-                    <!-- class="sub-menu" -->
-                    <li
-                      v-for="(menuMapLv2, key2) in menuMapLv1.children"
-                      :key="key2"
-                      :class="
-                        isOpenLv2 && currentLv2Index === key2
-                          ? 'child-open'
-                          : ''
-                      "
-                    >
-                      <nuxt-link :to="localePath(menuMapLv2.to)">{{
-                        menuMapLv2.label
-                      }}</nuxt-link>
-                      <template v-if="menuMapLv2.children">
-                        <i class="child-btn" @click="clickLv2Menu(key2)"></i>
-                        <VueSlideToggle
-                          :duration="500"
-                          tag="ul"
-                          :open="isOpenLv2 && currentLv2Index === key2"
-                          class="sub-menu2"
-                        >
-                          <li
-                            v-for="(menuMapLv3, key3) in menuMapLv2.children"
-                            :key="key3"
+                    <template v-for="(menuMapLv2, key2) in menuMapLv1.children">
+                      <li
+                        v-if="menuMapLv2.lang.includes(lang)"
+                        :key="key2"
+                        :class="
+                          isOpenLv2 && currentLv2Index === key2
+                            ? 'child-open'
+                            : ''
+                        "
+                      >
+                        <nuxt-link :to="localePath(menuMapLv2.to)">{{
+                          $t(menuMapLv2.label)
+                        }}</nuxt-link>
+                        <template v-if="menuMapLv2.children">
+                          <i class="child-btn" @click="clickLv2Menu(key2)"></i>
+                          <VueSlideToggle
+                            :duration="500"
+                            tag="ul"
+                            :open="isOpenLv2 && currentLv2Index === key2"
+                            class="sub-menu2"
                           >
-                            <template v-if="menuMapLv3.href">
-                              <a :href="getHiPath(menuMapLv3.href)">{{
-                                menuMapLv3.label
-                              }}</a>
+                            <template
+                              v-for="(menuMapLv3, key3) in menuMapLv2.children"
+                            >
+                              <li
+                                v-if="menuMapLv3.lang.includes(lang)"
+                                :key="key3"
+                              >
+                                <template v-if="menuMapLv3.href">
+                                  <a :href="getHiPath(menuMapLv3.href)">{{
+                                    $t(menuMapLv3.label)
+                                  }}</a>
+                                </template>
+                                <template v-else>
+                                  <nuxt-link :to="localePath(menuMapLv3.to)">{{
+                                    $t(menuMapLv3.label)
+                                  }}</nuxt-link>
+                                </template>
+                              </li>
                             </template>
-                            <template v-else>
-                              <nuxt-link :to="localePath(menuMapLv3.to)">{{
-                                menuMapLv3.label
-                              }}</nuxt-link>
-                            </template>
-                          </li>
-                        </VueSlideToggle>
-                      </template>
-                    </li>
-                  </VueSlideToggle>
-                  <!--
-                <nuxt-link :to="localePath(item.to)">{{
-                  $t(item.label)
-                }}</nuxt-link>
-                -->
-                  <!-- 
-                <span class="atag">{{ $t(item.label) }}</span
-                ><i class="child-btn"></i>
-                <template v-if="item.to">
-                  <ul class="sub-menu">
-                    <template v-for="(child, key2) in item.children">
-                      <li v-if="child.lang.includes(lang)" :key="key2">
-                        <template v-if="child.to">
-                          <nuxt-link
-                            v-if="child.to"
-                            :to="localePath(child.to)"
-                            >{{ $t(child.label) }}</nuxt-link
-                          >
-                        </template>
-                        <template v-else>
-                          <a :href="child.href">{{ $t(child.label) }}</a>
+                          </VueSlideToggle>
                         </template>
                       </li>
                     </template>
-                  </ul>
-                </template>
-                <template v-else>
-                  <ul class="sub-menu">
-                    <li>
-                      <a :href="item.href">{{ $t(item.label) }}</a>
-                    </li>
-                  </ul>
-                </template>
-                -->
+                  </VueSlideToggle>
                 </template>
               </li>
             </template>
@@ -336,6 +307,10 @@ export default class Layout extends Vue {
 
   getHiPath(data: string) {
     if (data.includes('hi.u-tokyo.ac.jp')) {
+      const lang = this.lang
+      if (lang !== 'ja') {
+        data = data.replace('/dev/', '/dev/' + lang + '/')
+      }
       return data
     }
 
