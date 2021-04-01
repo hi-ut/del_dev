@@ -1,27 +1,39 @@
 <template>
   <LayoutNews :title="title">
-    <News :items="items"></News>
+    <News />
+    <News v-if="false" :items="items"></News>
   </LayoutNews>
 </template>
 
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
-import News from '~/components/news/List.vue'
+//import News from '~/components/news/List.vue'
 
 @Component({
   components: {
-    News,
+    //News,
   },
 })
 export default class news extends Vue {
   baseUrl: string = process.env.BASE_URL || ''
 
-  year: number = -1
+  //year: number = -1
 
   get title() {
     return String(this.year) + this.$t('年度のニュース')
   }
 
+  get year(){
+    let year:any = this.$route.params.year
+    if (!year) {
+      const currentYear = new Date().getFullYear()
+      const currentMonth = new Date().getMonth() + 1
+      year = currentMonth < 4 ? currentYear - 1 : currentYear
+    }
+    return year
+  }
+
+  /*
   async asyncData({ $content, params, app }: any) {
     let year = params.year
     if (!year) {
@@ -62,5 +74,6 @@ export default class news extends Vue {
     }
     return { year, items }
   }
+  */
 }
 </script>
