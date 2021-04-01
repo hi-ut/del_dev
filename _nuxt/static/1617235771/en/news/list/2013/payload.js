@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/news/list/2013", {data:[{year:"2013",items:{}}],fetch:{},mutations:[]});
