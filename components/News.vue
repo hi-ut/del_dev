@@ -10,18 +10,36 @@
         >{{ $t('一覧') }}</nuxt-link
       >
     </h2>
+
+     <div class="page-link c4">
+<ul>
+<li><a @click="select = 'latest'">{{ $t('新着一覧') }}</a></li>
+<li><a @click="select = 'news'">{{ $t('news') }}</a</li>
+<li><a @click="select = 'event'">{{ $t('event') }}</a> </li>
+<li><a @click="select = 'data'">{{ $t('data') }}</a> </li>
+</ul>
+</div>
+
+
     <div class="data" style="height: 700px">
-      <dl>
-        <template v-for="(newsMap, key) in newsList">
-          <dt :key="`dt-${key}`">
+
+     <template v-for="(newsMap, key) in newsList">
+
+      <dl :key="key" v-if="select === 'latest' || select === newsMap.tag">
+        
+          <dt class="mb1">
             {{ newsMap.date }}
-            <span class="chip1">{{ newsMap.featured }}</span>
-            <span class="chip2">{{ newsMap.tag }}</span>
+            <!-- <span class="chip1">{{ newsMap.featured }}</span> -->
+            <span class="chip2">{{ $t(newsMap.tag) }}</span>
           </dt>
           <!-- eslint-disable-next-line vue/no-v-html -->
-          <dd :key="`dd-${key}`" v-html="newsMap.content"></dd>
-        </template>
+          <dd>
+            <span class="fc1">{{ newsMap.featured }}</span> <span v-html="newsMap.content"></span>
+          </dd>
+        
       </dl>
+
+      </template>
     </div>
   </section>
 </template>
@@ -42,6 +60,8 @@ export default class NewsComponent extends Vue {
   baseUrl: string = process.env.BASE_URL || ''
 
   lang: string = this.$i18n.locale
+
+  select: string = "latest"
 
   async created() {
     const prefix =

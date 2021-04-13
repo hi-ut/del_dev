@@ -244,7 +244,6 @@ export default class Layout extends Vue {
   baseUrl: string = process.env.BASE_URL || ''
 
   isPageTopBtnActive: boolean = false
-  scroll: number = 0
 
   @Watch('$route')
   onUrlChange() {

@@ -9,7 +9,7 @@
       size="31"
       :placeholder="$t('Googleカスタム検索')"
     />
-    <input id="search-btn" type="submit" name="sa" value="" />
+    <input id="search-btn" type="submit" name="sa" value=" " />
   </form>
 </template>
 

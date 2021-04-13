@@ -13,8 +13,10 @@
           <li v-if="lang !== 'en'">
             <a @click="changeLocale('en')">English</a>
           </li>
-          <!-- <li><a :href="baseUrl + '/zh/'">中文</a></li>
-                    <li><a :href="baseUrl + '/ko/'">한국어</a></li> -->
+          <!-- 
+            <li><a :href="baseUrl + '/zh/'">中文</a></li>
+            <li><a :href="baseUrl + '/ko/'">한국어</a></li> 
+          -->
         </ul>
       </VueSlideToggle>
     </li>

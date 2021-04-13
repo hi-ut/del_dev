@@ -6,7 +6,7 @@
       <div
         v-for="(item, key) in Object.keys(items).sort()"
         :key="key"
-        class="mb-5"
+        class="mt2"
       >
         <h2 class="h03">{{ item }}{{ lang == 'ja' ? '行' : '' }}</h2>
 
